@@ -1,4 +1,4 @@
-.heading{
+div.main{
 	width:200px;
 	background-color:purple;
 	
@@ -7,7 +7,7 @@
 	padding:10px;
 
 }
-h1{
+div#heading{
 	font-size:20px;
 	color:white;
 	text-decoration:underline;
